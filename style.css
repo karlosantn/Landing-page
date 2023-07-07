@@ -87,4 +87,10 @@
 
 .seta{
     margin-top: 40%;
+    cursor: pointer;
+}
+
+.seta:hover{
+    transform: translateY(-7px);
+    transition-duration: 0.5s;
 }
